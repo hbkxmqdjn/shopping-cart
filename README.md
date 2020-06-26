@@ -15,7 +15,7 @@ You will also see any lint errors in the console.
 
 ## Features
 
-### Add and remove items
-### Calculate total and shipping
+* Add and remove items
+* Calculate total and shipping
 
 
